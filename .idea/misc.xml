@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SocialMediaIntegration/app/src/main/res/drawable/facebookground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SocialMediaIntegration/app/src/main/res/drawable/googlebackground.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SocialMediaIntegration/app/src/main/res/layout/activity_facebook.xml" value="0.25" />
         <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SocialMediaIntegration/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Users/Vishnu/AndroidStudioProjects/SocialMediaIntegration/app/src/main/res/layout/activity_login_google.xml" value="0.25" />
